@@ -1,0 +1,29 @@
+h1{
+    color: rgb(127, 240, 255);
+}
+ .header{
+    height:200px;
+    background-image: url(../Masjid\ An-Nawabi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:multiply;
+ } 
+    
+h2{
+    color: blue;
+    text-align: center;
+}
+h3{
+    color: brown;
+    text-align: center;
+}
+.lorem{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid orangered;
+    border-radius: 12px;
+    margin: 40px 80px 40px 80px;
+    padding:50px 30px 50px 30px;
+    box-shadow: 5px 10px  rosybrown;
+}
